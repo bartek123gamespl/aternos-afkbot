@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"CubeMcZyDE.aternos.me",
+	"port": "52051",
+	"name": "HubAfkBot"
 }
